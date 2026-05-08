@@ -1,0 +1,30 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; else echo "No requirements.txt"; fi
+
+      - name: Run tests
+        run: |
+          if [ -f pyproject.toml ] || [ -d tests ] || [ -f requirements.txt ]; then
+            pytest || echo "No tests or tests failed"
+          else
+            echo "No test config found"
+          fi

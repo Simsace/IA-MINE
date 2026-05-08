@@ -1,3 +1,30 @@
+# IA
+
+Petit projet RAG/Chat local pour travailler sur des documents (backend Python + mobile app).
+
+## Structure
+- `backend/` : backend FastAPI
+- `mobile/` : app mobile
+- `chunks/`, `data/` : sources et index
+
+## Installation (Python)
+```bash
+python -m venv .venv
+source .venv/bin/activate  # ou .venv\Scripts\activate sur Windows
+pip install -r requirements.txt
+```
+
+## Lancer le serveur
+```bash
+# depuis la racine
+python api_server.py
+```
+
+## CI
+Un workflow GitHub Actions basique est inclus pour installer les dépendances Python et lancer `pytest` si présent.
+
+## Licence
+Ajoutez une licence si nécessaire.
 # IA sur les mines au Mali
 
 Ce projet permet de construire une IA documentaire capable de repondre aux questions sur les mines au Mali a partir de tes propres PDF.
