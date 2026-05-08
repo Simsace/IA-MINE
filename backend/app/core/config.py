@@ -33,6 +33,9 @@ class Settings(BaseSettings):
     llm_timeout_seconds: int = 60
     llm_max_tokens: int = 600
     engine_name: str = "openai-rag"
+    # LLM provider: 'openai' or 'gemini'
+    llm_provider: str = "openai"
+    gemini_api_key: str | None = None
 
     default_top_k: int = 5
     max_top_k: int = 10

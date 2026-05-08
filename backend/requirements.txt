@@ -11,4 +11,5 @@ openai
 langchain
 langchain-core
 langchain-community
+google-generative-ai
 

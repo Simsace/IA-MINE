@@ -6,6 +6,13 @@ from app.core.config import get_settings
 from langchain_core.documents import Document
 from openai import OpenAI
 
+try:
+    import google.generativeai as genai
+    HAS_GEMINI = True
+except Exception:
+    genai = None
+    HAS_GEMINI = False
+
 logger = logging.getLogger(__name__)
 
 
@@ -66,10 +73,7 @@ class LlmService:
 
         The LLM is asked to reply strictly from provided docs and to output JSON.
         """
-        client = self._client()
-        if client is None:
-            logger.warning("OPENAI_API_KEY is missing; returning fallback result")
-            return self._fallback_result(question, docs)
+        provider = (self.settings.llm_provider or "openai").lower()
 
         temperature = temperature if temperature is not None else self.settings.llm_temperature
         max_tokens = max_tokens if max_tokens is not None else self.settings.llm_max_tokens
@@ -84,21 +88,78 @@ class LlmService:
 
         user_prompt = f"Question: {question}\n\nContexte:\n{context}\n\n{user_instructions}"
 
-        try:
-            response = client.chat.completions.create(
-                model=self.settings.model_name,
-                temperature=temperature,
-                max_tokens=max_tokens,
-                messages=[
-                    {"role": "system", "content": SYSTEM_PROMPT},
-                    {"role": "user", "content": user_prompt},
-                ],
-            )
-        except Exception as exc:
-            logger.exception("LLM call failed")
-            return self._fallback_result(question, docs)
+        raw = None
 
-        raw = (response.choices[0].message.content or "").strip()
+        if provider == "gemini":
+            # Use Google Generative AI
+            if not self.settings.gemini_api_key:
+                logger.warning("GEMINI API key missing; returning fallback result")
+                return self._fallback_result(question, docs)
+            if not HAS_GEMINI:
+                logger.warning("google-generative-ai package not installed; returning fallback result")
+                return self._fallback_result(question, docs)
+
+            try:
+                genai.configure(api_key=self.settings.gemini_api_key)
+                response = genai.chat.create(
+                    model=self.settings.model_name,
+                    messages=[
+                        {"role": "system", "content": SYSTEM_PROMPT},
+                        {"role": "user", "content": user_prompt},
+                    ],
+                    temperature=temperature,
+                    max_output_tokens=max_tokens,
+                )
+            except Exception as exc:
+                logger.exception("Gemini LLM call failed")
+                return self._fallback_result(question, docs)
+
+            # extract raw text from Gemini response safely
+            try:
+                if hasattr(response, "candidates") and response.candidates:
+                    cand = response.candidates[0]
+                    cont = getattr(cand, "content", None) or cand
+                    if isinstance(cont, dict):
+                        raw = cont.get("text") or json.dumps(cont)
+                    else:
+                        raw = str(cont)
+                elif isinstance(response, dict):
+                    cands = response.get("candidates") or response.get("outputs")
+                    if cands:
+                        cont = cands[0].get("content")
+                        if isinstance(cont, dict):
+                            raw = cont.get("text") or json.dumps(cont)
+                        else:
+                            raw = str(cont)
+                    else:
+                        raw = str(response)
+                else:
+                    raw = str(response)
+            except Exception:
+                raw = str(response)
+
+        else:
+            # Default: OpenAI-compatible API
+            client = self._client()
+            if client is None:
+                logger.warning("OPENAI_API_KEY is missing; returning fallback result")
+                return self._fallback_result(question, docs)
+
+            try:
+                response = client.chat.completions.create(
+                    model=self.settings.model_name,
+                    temperature=temperature,
+                    max_tokens=max_tokens,
+                    messages=[
+                        {"role": "system", "content": SYSTEM_PROMPT},
+                        {"role": "user", "content": user_prompt},
+                    ],
+                )
+            except Exception as exc:
+                logger.exception("LLM call failed")
+                return self._fallback_result(question, docs)
+
+            raw = (response.choices[0].message.content or "").strip()
 
         # Try to extract JSON from the model output
         try:
