@@ -4,10 +4,21 @@ from pathlib import Path
 
 import faiss
 import numpy as np
+import openai
+from typing import Tuple
 
 INDEX_PATH = Path("mines_index.faiss")
-METADATA_PATH = Path("metadata.json")
-TOP_K = 3
+            results = retrieve(question, index, metadata, TOP_K)
+            # Synthesize final answer using LLM and print JSON
+            try:
+                synth = synthesize_answer(question, results)
+            except Exception as exc:
+                print(f"Error while calling LLM: {exc}")
+                # Fallback: print retrieved results
+                print_results(question, results)
+                return
+
+            print(json.dumps(synth, ensure_ascii=False, indent=2))
 HF_CACHE_DIR = Path(".hf-cache")
 LOCAL_MODELS_DIR = Path(".models")
 MODEL_REQUIRED_FILES = (
@@ -135,6 +146,86 @@ def print_results(question: str, results: list[dict]) -> None:
         print("-" * 80)
         print(result["text"])
         print("-" * 80)
+
+
+# --- LLM synthesis ---------------------------------------------------------
+PROMPT_TEMPLATE = """
+Vous êtes un assistant professionnel qui répond en français de façon concise et claire.
+Vous avez à disposition uniquement les extraits fournis ci-dessous (Contexte).
+Répondez à la question en utilisant exclusivement ces extraits. Ne supposez rien qui ne soit pas dans le contexte.
+Si la réponse n'est pas dans le contexte, répondez honnêtement "Je ne sais pas" ou "Aucune information disponible dans les documents fournis".
+
+Instructions strictes :
+- Rédigez la réponse en français, ton professionnel et concis (3-6 phrases maximum si possible).
+- Incluez des citations entre crochets indiquant la source exacte utilisée, par exemple [ITIE_Mali_Rapport_2019_chunk_0001.txt].
+- Après la réponse, fournissez la liste des sources utilisées sous la clé `sources` (format JSON demandé).
+- N'utilisez PAS d'informations en dehors des extraits fournis.
+
+Format de sortie (strictement) :
+{\n  "answer": "...texte en français...",\n  "sources": ["source1", "source2"]\n}
+
+Contexte :\n{context}\n\nQuestion : {question}
+"""
+
+
+def synthesize_answer(question: str, results: list[dict],
+                      model: str | None = None,
+                      temperature: float = 0.0) -> dict:
+    """Synthesize a concise French answer from retrieved chunks using OpenAI.
+
+    Returns a dict with keys `answer` (str) and `sources` (list[str]).
+    """
+    if not results:
+        return {"answer": "Aucune information disponible dans les documents fournis.", "sources": []}
+
+    # Build context from retrieved chunks (keep order)
+    context_items = []
+    sources = []
+    for r in results:
+        src = r.get("source") or r.get("path") or "unknown"
+        # avoid duplicate sources in list
+        if src not in sources:
+            sources.append(src)
+        # include small header for each chunk
+        context_items.append(f"Source: {src}\n{r.get('text','')}")
+
+    context = "\n\n---\n\n".join(context_items)
+
+    prompt = PROMPT_TEMPLATE.format(context=context, question=question)
+
+    openai.api_key = os.environ.get("OPENAI_API_KEY")
+    if openai.api_key is None:
+        raise EnvironmentError("OPENAI_API_KEY not set in environment")
+
+    model = model or os.environ.get("OPENAI_MODEL", "gpt-3.5-turbo")
+
+    # Call the ChatCompletion API
+    try:
+        response = openai.ChatCompletion.create(
+            model=model,
+            messages=[
+                {"role": "system", "content": "Vous êtes un assistant utile et factuel qui répond uniquement avec des informations tirées du contexte fourni."},
+                {"role": "user", "content": prompt},
+            ],
+            temperature=temperature,
+            max_tokens=600,
+        )
+    except Exception as exc:
+        raise RuntimeError(f"LLM request failed: {exc}")
+
+    text = response.choices[0].message.content.strip()
+
+    # Try to parse JSON from model output. If parsing fails, fall back to wrapping text.
+    try:
+        parsed = json.loads(text)
+        # Ensure it has answer and sources
+        ans = parsed.get("answer") or parsed.get("response") or parsed.get("text") or ""
+        srcs = parsed.get("sources") or sources
+        return {"answer": ans, "sources": srcs}
+    except Exception:
+        # Attempt to extract sources by intersecting known sources
+        used = [s for s in sources if s in text]
+        return {"answer": text, "sources": used}
 
 
 def main() -> None:
