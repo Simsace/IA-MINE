@@ -12,6 +12,7 @@ try:
 except Exception:
     genai = None
     HAS_GEMINI = False
+import requests
 
 logger = logging.getLogger(__name__)
 
@@ -96,8 +97,92 @@ class LlmService:
                 logger.warning("GEMINI API key missing; returning fallback result")
                 return self._fallback_result(question, docs)
             if not HAS_GEMINI:
-                logger.warning("google-generative-ai package not installed; returning fallback result")
-                return self._fallback_result(question, docs)
+                # Attempt REST fallback to Generative Language API using API key
+                try:
+                    url = f"https://generativelanguage.googleapis.com/v1/models/{self.settings.model_name}:generate?key={self.settings.gemini_api_key}"
+                    payload = {
+                        "prompt": {"text": user_prompt},
+                        "temperature": float(temperature),
+                        "maxOutputTokens": int(max_tokens),
+                    }
+                    resp = requests.post(url, json=payload, timeout=self.settings.llm_timeout_seconds)
+                    resp.raise_for_status()
+                    data = resp.json()
+                except Exception as exc:
+                    logger.warning("Gemini REST call failed: %s", exc)
+                    return self._fallback_result(question, docs)
+
+                # Extract text from common Gemini REST response shapes
+                raw = None
+                try:
+                    if isinstance(data, dict):
+                        # v1 responses often have 'candidates' array
+                        cands = data.get("candidates") or data.get("outputs")
+                        if cands and isinstance(cands, list):
+                            cand = cands[0]
+                            # candidate may have 'content' or 'output' keys
+                            if isinstance(cand, dict):
+                                cont = cand.get("content") or cand.get("output") or cand
+                                if isinstance(cont, list):
+                                    # find first text field
+                                    for item in cont:
+                                        if isinstance(item, dict) and "text" in item:
+                                            raw = item.get("text").strip()
+                                            break
+                                elif isinstance(cont, str):
+                                    raw = cont.strip()
+                                elif isinstance(cont, dict) and "text" in cont:
+                                    raw = cont.get("text").strip()
+                        # fallback to top-level 'output' or 'content'
+                        if raw is None:
+                            if "output" in data and isinstance(data["output"], str):
+                                raw = data["output"].strip()
+                            elif "text" in data:
+                                raw = str(data["text"]).strip()
+                    if raw is None:
+                        raw = json.dumps(data)
+                except Exception:
+                    raw = str(data)
+
+            else:
+                try:
+                    genai.configure(api_key=self.settings.gemini_api_key)
+                    response = genai.chat.create(
+                        model=self.settings.model_name,
+                        messages=[
+                            {"role": "system", "content": SYSTEM_PROMPT},
+                            {"role": "user", "content": user_prompt},
+                        ],
+                        temperature=temperature,
+                        max_output_tokens=max_tokens,
+                    )
+                except Exception as exc:
+                    logger.exception("Gemini LLM call failed")
+                    return self._fallback_result(question, docs)
+
+                # extract raw text from Gemini response safely
+                try:
+                    if hasattr(response, "candidates") and response.candidates:
+                        cand = response.candidates[0]
+                        cont = getattr(cand, "content", None) or cand
+                        if isinstance(cont, dict):
+                            raw = cont.get("text") or json.dumps(cont)
+                        else:
+                            raw = str(cont)
+                    elif isinstance(response, dict):
+                        cands = response.get("candidates") or response.get("outputs")
+                        if cands:
+                            cont = cands[0].get("content")
+                            if isinstance(cont, dict):
+                                raw = cont.get("text") or json.dumps(cont)
+                            else:
+                                raw = str(cont)
+                        else:
+                            raw = str(response)
+                    else:
+                        raw = str(response)
+                except Exception:
+                    raw = str(response)
 
             try:
                 genai.configure(api_key=self.settings.gemini_api_key)
@@ -114,29 +199,7 @@ class LlmService:
                 logger.exception("Gemini LLM call failed")
                 return self._fallback_result(question, docs)
 
-            # extract raw text from Gemini response safely
-            try:
-                if hasattr(response, "candidates") and response.candidates:
-                    cand = response.candidates[0]
-                    cont = getattr(cand, "content", None) or cand
-                    if isinstance(cont, dict):
-                        raw = cont.get("text") or json.dumps(cont)
-                    else:
-                        raw = str(cont)
-                elif isinstance(response, dict):
-                    cands = response.get("candidates") or response.get("outputs")
-                    if cands:
-                        cont = cands[0].get("content")
-                        if isinstance(cont, dict):
-                            raw = cont.get("text") or json.dumps(cont)
-                        else:
-                            raw = str(cont)
-                    else:
-                        raw = str(response)
-                else:
-                    raw = str(response)
-            except Exception:
-                raw = str(response)
+            
 
         else:
             # Default: OpenAI-compatible API
