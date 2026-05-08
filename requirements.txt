@@ -1,0 +1,7 @@
+pdfplumber
+openai
+numpy
+sentence-transformers
+faiss-cpu
+fastapi
+uvicorn

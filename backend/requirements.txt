@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+numpy
+faiss-cpu
+sentence-transformers
+huggingface-hub
+openai
+langchain
+langchain-core
+langchain-community
+

@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Mines Mali",
+    "slug": "assistant-mines-mali",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0f766e"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}

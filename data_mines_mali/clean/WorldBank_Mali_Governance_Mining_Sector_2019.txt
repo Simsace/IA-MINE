@@ -1,0 +1,869 @@
+The World Bank
+Mali Governance of Mining Sector (P164242)
+Combined Project Information Documents /
+Integrated Safeguards Datasheet (PID/ISDS)
+Appraisal Stage  Date Prepared/Updated: 10-May-2019  Report No: PIDISDSA24173
+Apr 15, 2019 Page 1 of 23
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+dezirohtuA
+erusolcsiD
+cilbuP
+The World Bank
+Mali Governance of Mining Sector (P164242)
+BASIC INFORMATION
+OPS_TABLE_BASIC_DATA
+A. Basic Project Data
+Country Project ID Project Name Parent Project ID (if any)
+Mali P164242 Mali Governance of
+Mining Sector
+Region Estimated Appraisal Date Estimated Board Date Practice Area (Lead)
+AFRICA 07-Mar-2019 20-Jun-2019 Energy  Extractives
+Financing Instrument Borrower(s) Implementing Agency
+Investment Project Financing Ministere des Finances Ministere des Mines
+Proposed Development Objective(s)
+Strengthen the capacity of the mining sector to contribute to Malis medium-term growth and sustainable
+development objectives through improved sector management and governance.
+Components
+Component A: Improving access to, and management of, mineral resources
+Component B: Strengthening governance and transparency of the extractive industries revenues
+Component C: Maximizing the contribution of extractive industries to shared growth
+Component D: Contingency emergency response
+Component E: Project coordination and training and project preparation facility
+PROJECT FINANCING DATA (US, Millions)
+SUMMARY
+-NewFin1
+Total Project Cost 40.00
+Total Financing 40.00
+of which IBRD/IDA 40.00
+Financing Gap 0.00
+DETAILS
+-NewFinEnh1
+World Bank Group Financing
+International Development Association (IDA) 40.00
+Apr 15, 2019 Page 2 of 23
+The World Bank
+Mali Governance of Mining Sector (P164242)
+IDA Credit 40.00
+Environmental Assessment Category
+B-Partial Assessment
+Decision
+The review did authorize the team to appraise and negotiate
+Other Decision (as needed)
+B . Introduction and Context
+Country Context
+1. Mali is a vast landlocked country affected by fragility, conflict, and violence. Formerly, the land of several
+precolonial empires, for centuries, its northern city of Timbuktu has been a key regional trading center and center of
+Islamic culture. Modern-day Mali is a low-income country with a non-diversified economy that is vulnerable to
+commodity price fluctuations and climate change. Malis population is estimated at 19 million (2018) with a high
+average growth rate at around 3% t per year and a median age of 16 years. The population is expected to reach 35
+million in 2035. With a gross domestic product (GDP) per capita of around USD 763 in 2017, Mali remains a poor
+country. Its human capital development is constrained by a low adult literacy rate (33.07%) with a large gender
+disparity (While the male literacy rate is 45.07%, for females it is as low as 22.2%). In 2017, Mali ranked 154th out of
+157 countries in the United Nations Human Capital Index. Mali is also one of the 19 most fragile countries in the world
+where development results are affected by Fragility, Conflict and Violence (FCV). The key drivers of fragility are
+economic uncertainty, poor governance, security and crime. Economic fragility is mainly due to the lack of economic
+opportunities, while security and crime-related fragility stems from multiple and complex interrelated factors that have
+led to the emergence of radicalized insurgent groups competing for control of power in the northern regions of Mali.
+Governance-related fragility results from incomplete decentralization and insufficient social accountability, which
+eventually undermined the authority of the state in some areas, particularly in the north. In 2015, a peace agreement
+was signed by the Government and two armed groups to end the conflict in the north of the country. The peace
+agreement has created the minimum conditions for the Malian authorities to address the challenges of poverty
+reduction, including in the North. However, implementation remains challenging as the security situation in North Mali
+remains volatile while intercommunal violence engulfs the Center of Mali and risks spreading to other regions.
+2. Malis fragility was exacerbated by the 2012 crisis and its aftermath: For the first time, the territorial integrity
+of Mali was threatened, raising concerns about Mali's internal capacity to cope with challenges to ensure physical
+security of its population. The conflict was not an isolated event but the result of pent-up frustrations and unresolved
+problems dating back to the early days of independence. The crisis demonstrated that one of the main challenges for
+Mali lies in nation building and political governance. The restoration of people's confidence in public administrations
+is becoming a priority and the evolution of the way in which Malian democracy operates is now emerging as a major
+issue. The system of consensus politics has led to the emergence of a procedural democracy with a bureaucracy
+characterized by elitist, urban-oriented policies and captured institutions which face difficulties to deliver quality
+services. The conflict has wiped out much of the progress made previously. Once the conflict erupted, 36% of the total
+Apr 15, 2019 Page 3 of 23
+The World Bank
+Mali Governance of Mining Sector (P164242)
+population of the north fled to the south of Mali and to neighboring countries. The crisis had dramatic effects on public
+infrastructure and services. The conflict reduced human mobility, limited access to markets and led to theft of assets.
+Farmers were cut off from their activities; traders were unable to move and herders with many livestock have been
+forced to leave conflict zones to settle in safer areas. The conflict has shaken investor confidence, decimated the Malian
+tourism industry and led to a virtual withdrawal of donor support. The northern half and central areas of the country
+continue to face significantly instability.
+3. The multidimensional crisis has had a considerable impact on the country's economic fragility, but the
+mining sector helped to mitigate the impact. Although mining could contribute to the dynamics of conflict and
+therefore exacerbate fragility, it played a mitigating role during the 2012 crisis. Unlike similar situations in the DRC,
+Sierra Leone and Liberia, non-state actors did not take control of the sector or use its revenues to fuel the conflict.
+This is partly because Mali has a solid mining tradition and is well-integrated in the community. While mining is not a
+major contributor to GDP, it is a key driver of growth through Foreign Direct Investment (FDI), exports, and local
+purchases. During the crisis, mining played a mitigating role when the drop of economic activity was partly offset by a
+strong performance of gold mining (7.5%)1. Mineral production also helped to mitigate the decline in the secondary
+(manufacturing) sector and to avoid a recession2. Real GDP growth reached 4.9% in 2018 slightly below 5.4% in 2017
+and is expected to remain at the 5% level in the medium term, in line with Mali's past performance and long-term
+potential. The economic structure has not changed much since the 1990s, but mining has the potential to make a
+greater contribution to GDP and to reduction of extreme poverty (estimated to have declined from 46.3% in 2015 to
+42.7% in 2017).
+4. Mining has the potential to strengthen Malis resilience by stimulating growth, creating new economic
+opportunities, and generating revenues for social services. Mali has historically relied on mining as a driver of exports.
+The mining tradition dates to 1433, when Malian Emperor Kankou Musa famously brought down world gold prices by
+flooding the Middle East with Malian gold on his way to pilgrimage to Mecca. Since these ancient times, mining
+continues to be a source of alternative livelihood for many Malians (second only to agriculture). Artisanal and small-
+scale mining (ASM) occupies about 400,000 people and an estimated 2.2 million dependents, most of whom are young
+people3. Industrial-scale mining did not start until the 1970s when donor-funded large exploration program led to the
+discovery of new deposits. As a result, the Kalana gold mine was developed in South-Western Mali with technical
+assistance from the then Soviet Union. During the following decade, UN-funded exploration programs using soil
+geochemistry led to the discovery of several gold deposits and the subsequent development of the Syama gold mine.
+The 1990s saw the intensification of exploration activities and the discovery of new world class gold mines. During this
+period, seven gold deposits were discovered, including three in the southern part of the country (Syama, Morila,
+Kalana) and four in the west of the country (Sadiola, Yatela, Loulo, Tabakoto). However, most of these mines are at or
+near depletion. To leverage industrial mining with a view to build economic resilience, the Government adopted in
+1994 a strategy aimed at developing the mining sector to offset or reduce the dependence on rain-fed agriculture. The
+implementation of this strategy enabled Malis economy to achieve remarkable resilience. Thanks in part to the
+sustained growth of the mining sector, Mali has achieved economic resilience in the face of adverse shocks, recurring
+droughts and major conflict that led to the 2012 economic and political crisis. The government recently adopted a
+new mining policy aimed at diversifying and integrating mining production into the economy as a factor of sustainable
+development. Figure 1 shows how mining contributed to Malis resilience by playing a counter-cyclical role throughout
+1 Mali Economic Update Janvier 2013
+2 Socioeconomic and Fiscal Impact of Large-Scale Gold Mining in Mali  WP S 7467
+3 G. Hilson: Artisanal Small Scale Mining and Agriculture, Exploring their Links in Sub-Saharan Africa. IIED, 2016.
+Apr 15, 2019 Page 4 of 23
+The World Bank
+Mali Governance of Mining Sector (P164242)
+the crisis years by offsetting decline in other sectors with strong export earnings and fiscal performance, and robust
+employment.
+Figure 1: Mining Contribution to Economic Resilience of Mali
+Mineral Export Earnings
+A1400
+F
+C
+n1200
+o
+illib1000
+,s
+g
+n 800
+in Trend
+a
+r e 600
+t
+r
+o p 400
+x
+E
+200
+0
+2011 2012 2013 2014 2015 2016 2017
+Mining Fiscal Revenue
+A
+F
+C
+n
+350
+o
+illiB
+2
+3
+5
+0
+0
+0
+,e
+u 200
+n
+e 150
+v Trend
+e
+r 100
+la
+c 50
+s
+iF 0
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
+Mining Industrial Employment
+g 14,000
+n
+ine 12,000
+im c
+r o 10,000
+laf
+k 8,000
+ir t u r o w 6,000 Trend
+d
+n 4,000
+I
+2,000
+0
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
+Apr 15, 2019 Page 5 of 23
+The World Bank
+Mali Governance of Mining Sector (P164242)
+Source: Graphs prepared from data compiled by the Ministry of Mines and Petroleum
+5. Mining can also contribute to peace consolidation and stability by stimulating local development and shared
+growth around mining districts. The decentralization process in Mali, which was initiated in the late 1990s, resulted
+in establishment of autonomous local authorities (703 communes, 56 counties and 10 regions plus the District of
+Bamako) with specific responsibilities related to the provision of public services, particularly in health, education and
+water management. In the early days of decentralization, local authorities became responsible for managing the civil
+registry, administrative affairs including archives and budget, and sanitation. In 2002, additional responsibilities were
+transferred in the areas of health, education and water management and most recently mining in 2017. Pursuant to
+the Algiers Peace Agreement, local governments are responsible for their own economic, social and cultural
+development programs through the management of their own resources, which are mainly made up of resources
+transferred by the central government. One of the main resources available for mining communities is the local
+business tax known as patente, which is distributed according to the following allocation ratio: 60% to municipalities,
+25% to counties and 15% to regions. These receipts are paid to the public treasury through the decentralized regional
+unit of the General Directorate of Taxation (DGI) for the benefit of the eligible municipalities. Although they represent
+only between 2.3 and 2.5% of total mining revenues, local business taxes from mining companies revenues are
+significant source of income for mining districts. Table 1 presents the magnitude of payments made by large-scale
+mining companies to local communities within mining districts. According to the 2018 EITI report covering fiscal year
+2016, the payments made by the mining companies in the form of patente grew from about 4.1 billion CFA in 2015 to
+5.2 billion CFA francs in 2016. These amounts were paid to the mining communities of Kayes, Kénieba, Sikasso,
+Bougouni, Kadiolo, Yanfolila where they were used to finance local development projects. There are 15 mining
+communities currently receiving and managing receiving mining local business taxes (see Table 2).
+Table 1: Local contributions paid by large-scale mining companies in 2015 (in FCFA)
+Business
+license tax Corporate
+Company Locality (Patente) Contributions Road taxes Total
+YATELA SA Sadiola 290,303,390 29,030,340 14,515,169 333,848,899
+SEMOS SA Sadiola 457,794,400 45,779,440 22,889,725 526,463,565
+BME SARL Sadiola 4,619,880 461,990 230,993 5,312,863
+LTA MALI SA Sadiola 55,386,708 5,538,670 2,769,336 63,694,714
+BLY MALI SA Sadiola 86,208,035 8,620,800 4,310,402 99,139,237
+SOMILO SA Loulo 1,062,798,122 106,279,813 53,139,906 1,222,217,841
+SEMICO SA Tabacoto 275,445,893 27,544,589 13,772,295 316,762,777
+Gounkoto SA Kenieba 490,705,563 49,070,556 24,535,278 564,311,397
+GMS Tabacoto 2,637,355 263,735 131,868 3,032,958
+Apr 15, 2019 Page 6 of 23
+The World Bank
+Mali Governance of Mining Sector (P164242)
+Total 2,725,899,346 272,589,933 136,294,972 3,134,784,251
+Source: Ministry of Mines and Petroleum
+Table 2: List of mining communities receiving and managing mining business taxes
+N° COMMUNITY MINE MINING COMPANY COUNTY REGION
+1 Sadiola Sadiola SEMOS SA Kayes Kayes
+2 Yatéla YATELA SA Kayes Kayes
+3 Sitakily Kofi SEMICO SA Kéniéba Kayes
+4 Sitakily Segala SEMICO SA Kéniéba Kayes
+5 Sitakily Loulo SOMILO SA Kéniéba Kayes
+6 Kéniéba Gounkoto GOUNKOTO SA Kéniéba Kayes
+7 Kéniéba Fekola FEKOLA SA Kéniéba Kayes
+8 Sanso Morila MORILA SA Bougouni Sikasso
+9 Domba
+10 Gouandiaka Kalana SOMIKA SA Yanfolila Sikasso
+11 Gouandiaka Kodiéran WASSOULOR SA Yanfolila Sikasso
+12 Séré Moussa ani Komana SOCIETE MINIERE DE Yanfolila Sikasso
+Samou KOMANA (SMK SA)
+13 Finkolo Ganadougou Nampala NAMPALA SA Sikasso Sikasso
+14 NTjikouna
+15 Fourou Syama SOMISY SA Kadiolo Sikasso
+Source: Ministry of Mines and Petroleum
+B. Sectoral and Institutional Context
+Economic potential of mining
+6. Basic geological work has been undertaken in Mali, largely financed with foreign aid, confirming that Mali
+has promising mineral potential. Regional surveys have identified significant potential for a diversified resource base.
+These include, for example, lithium (in Bougoun), kaolin (in Gao), bauxite (resources of 120 million tonnes in Sitadina,
+Kita, Kenieba), iron ore (resources of 1360 million tonnes in areas such as Kita, Kénieba, Diamou), and other minerals.
+Table 3 summarizes the known mineral potential of Mali. The mineral potential is yet to be developed, however,
+because of insufficient exploration and development investment by the private sector, largely due to deficient
+government policies and weak sector institutions. In addition, large amounts of geological data generated has not been
+properly organized, synthesized and made readily available to potential investors. Malis geological coverage is also
+incomplete. While most geological work focused on gold bearing formations within the Birrimian greenstone belt, the
+sedimentary basin, which is critical to the diversification of the mineral potential outside the gold sector, is yet to be
+explored. Thus, mineral production is focused on gold, which has more than doubled in the past ten years to an average
+of 50 metric tons per year. In addition, there is an estimated production of 20 metric tons of gold from artisanal and
+small-scale mining (ASM), bringing total production to about 70 metric tons a year. The diversification of mineral
+production through the development of non-gold resources would stimulate sector growth and mitigate volatility
+arising from heavy reliance on gold production.
+Table 3: Malis Mineral Potential
+Apr 15, 2019 Page 7 of 23
+The World Bank
+Mali Governance of Mining Sector (P164242)
+Mineral Estimated resources
+Gold 800 metric tons
+Phosphates 20 million metric tons (Tilemsi)
+Limestone 40 million metric tons (Bafoulabé, Hombori)
+Salt 53 million metric tons (Taoudéni)
+Bauxite 1.2 billion metric tons (Kayes, and West of Bamako)
+Iron 2 billion metric tons (Kayes)
+Manganese 10 million metric tons (Ansongo)
+Bituminous shale 10 billion metric tons
+Marble 60 million metric tons
+Lignite prospects discovered in the Gao region
+Gypsum 405 000 metric tons
+Uranium 5 000 metric tons of dU3O6 and 200 metric tons of U3O2 at 0,085 %
+Lead-zinc 1.7 million metric tons
+Source: Ministry of Mines and Petroleum
+7. The mining sector is critical to the economic development of Mali. Sector revenues contribute about 7% to
+the GDP, tax revenues generated by gold are around 250 billion FCFA and mining exports constituted 68% of total
+exports in 2016. The mining sector has the potential to make a significant contribution to the sustainable development
+objectives of the Government and, for this reason, is a priority area for policy support by the government. The
+government has adopted a new mining policy, which sets the priorities of the mining sector with the following actions:
+ Strengthen knowledge and mapping of the mining and geological potential of Mali's subsoil;
+ Develop learning and training in the mining and oil fields (mining school);
+ Better support the mining contracts and strengthen the independent monitoring of the sector; and
+ Strengthen partnerships between mining companies and the Malian private sector.
+8. With the new mining policy, the government aims to diversify and integrate mining production into the
+economy as a factor of sustainable development, as well as to meet the challenges of governance, transparency and
+protection of the environment. The new mining policy also aims to establish an enabling environment for private sector
+development.
+9. The Government of Mali has prepared a strategy paper for growth and poverty reduction for the period 2016-
+2018, known as the Strategic Framework for the Economic Recovery and Sustainable Development of Mali (CREDD).
+Through CREDD, the government has defined sustainability goals achievable by 2030, based on the potential and
+resilience of the country to maintain a growth trajectory focused on inclusive development, reducing poverty and
+inequalities in a peaceful and united Mali. The first phase of the CREDD (2016-2018) has just ended and the new CREDD
+(2019-2023) aims at the following strategic objectives: (i) consolidation of democracy and improvement of governance,
+(ii) restoration of peace and security and strengthening of living together, (iii) inclusive growth and structural
+transformation of the economy, (iv) environmental protection and resilience to climate change, and (v) human capital
+development. Overall, CREDD aims to reduce the incidence of poverty from 44.9% in 2017 to 40% in 2023. Mining is
+one of the key sectors expected to enable Mali to achieve the objectives of the new CREDD.
+10. The Government intends to leverage the mining sector as a catalyst for inclusive multi-sectoral growth
+toward the objective of achieving emerging country status for Mali. A well-performing and sustainable extractive
+Apr 15, 2019 Page 8 of 23
+The World Bank
+Mali Governance of Mining Sector (P164242)
+sector is expected to address the financing needs of the Government, the creation of economic linkages with other
+sectors, the reduction of economic volatility, and the creation of jobs, especially for the youth. To this end, the
+Government's objectives for the mining sector within the new CREDD are: (i) to ensure the diversity of mineral
+discoveries by deepening the knowledge of the geological potential through acquisition of new geo-scientific data; (ii)
+to create an enabling environment for investment into expanding current gold production as new development of
+minerals outside the gold sector; (iii) to promote the sustainable development of small-scale mining for gold and
+industrial minerals; (iv) to strengthen Government capacity to manage the sector; and (v) to improve the governance
+of extractive industries revenues. The Government also intends to leverage the FDI potential of the mining sector to
+maximize finance for development and stimulate public-private partnerships to develop social infrastructure around
+mining communities through operationalization of initiatives such as the Power of the Mine.4 In addition to this, the
+Government is seeking to retain existing investment in operating mines, but also attract new investment.
+Sector Challenges and Constraints
+11. Despite its significant potential, the performance of the mining sector has been below expectation. For the
+countrys significant mining potential to be realized, Mali needs to grow and diversify mineral production, improve
+sector governance, and stimulate mining-led broad-based growth. Over the years, the World Bank has supported Mali
+in making the most out of its mining sector (see Paragraph 36), but there are still several challenges ahead. First, the
+major mines which fueled production growth in Mali are nearing their depletion point (the Morila mine is scheduled to
+be closed down in 2020 after nearly 20 years of operation; the Yatela mine has already been depleted and in care
+maintenance; the Sadiola mine is nearing depletion after 20 years of operation, but its life could be extended by another
+10 years if new proposed investment goes forward). As Figure 2 shows, industrial gold production trend has been nearly
+flat since 2008, while mining contribution to GDP has been declining in view of the slow pace of developing new mines.
+With the depletion of mineral reserves and price volatility, the challenge faced by Mali is to strengthen the ability of the
+mining sector to serve as a buffer during economic shocks or political crises. This is achieved by stimulating investment
+toward the expansion of current operations, attracting new FDI in exploration within and outside the gold-bearing
+greenstone belt, and promoting linkages to achieve mining-led broad-based growth.
+Figure 2: Evidence of Nearly Flat Gold Production and Declining GDP Contribution Trends
+4 See Sudeshna Ghosh Banerjee, Zayra Romo, Gary McMahon, Perrine Toledano, Peter Robinson, Ines Perez Arroyo. The Power of the Mine: A
+Transformative Opportunity for Sub-Saharan Africa. The World Bank Group. 2015.
+Apr 15, 2019 Page 9 of 23
+The World Bank
+Mali Governance of Mining Sector (P164242)
+Gold production
+52000
+50000
+g K 48000 Trend
+,n
+o
+it 46000
+c
+u
+d
+o 44000
+r
+p
+d
+lo 42000
+G
+40000
+38000
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
+Source: Source: Prepared from data provided by the Ministry of Mines and Petroleum
+12. Investment opportunities are limited due to lack of reliable geoscientific data to promote the sector. The
+National Geology and Mines Department lacks modern geological and mining information systems to set up
+geoscientific databases and effectively promote the countrys mineral resources by producing basis geological maps of
+prospective areas. The geoscientific database includes about 80 survey and aerial maps at 1/200 000 scale, and about
+50 maps at scales varying from 1/1,500,000 to 1/500,000. The Department has a datacenter with a limited number of
+electronically archived documents. This inventory of data is inadequate for a country with a total land area of 1,241,000,
+square kilometers, a third of which is desert. The dearth of new gold discoveries is affecting the sector through depletion
+of known resources and a push toward marginal resources with high costs of production. Mali has about 23,000 square
+kilometers of greenstone belt formations which are known to host significant mineralization in other parts of the world.
+For instance, Mali has been able to develop only 13 gold deposits of which 11 are in production so far, which is well
+Apr 15, 2019 Page 10 of 23
+The World Bank
+Mali Governance of Mining Sector (P164242)
+below its potential. By comparison, 5 times as many mines were developed in the Abitibi region of Western Quebec,
+Canada, over a similar stretch of greenstone belt. Due to limited knowledge of the geological potential of the
+greenstone belt of Mali, FDI into the mining sector has been relatively low compared to Ghana or Guinea which also
+host the same formations. Annual FDI averaged about US34 million between 2011 and 2017, dipping to US14 million
+in 2014, but recovering vigorously in 2015 and 2016.5
+13. Weak institutional capacity severely limits the Governments ability to properly manage the sector. The
+management of the mining sector is shared among eight entities: Presidents Office, Prime Ministers Office, Ministry
+of Mines, Ministry of Finance, Mali Investment Promotion Agency, Chamber of Mines, and National Extractive Industries
+Transparency Initiative (EITI) Secretariat. These entities not only suffer from low capacity, their efficiency is further
+diminished because of duplication of efforts and sometimes institutional conflicts. The lack of unified voice on the
+position of the Government with respect to key mining policy and fiscal issues is straining relationships with investors
+and increasing risk perceptions about regulatory stability.
+14. The potential of ASM is constrained by informality, as well as environmental and social problems: ASM is a
+traditional, often informal, village-based activity with significant potential for rural employment. It is currently focused
+on extractingby manual or semi-mechanized methodsthe gold contained in the primary alluvial and mountainside
+deposits. Manual mining and panning of gold employ an estimated 400,000 people, including migrants from neighboring
+countries, women, and the youth. The ASM occupation is regulated by the mining law, but ASM workers often operate
+in the informal sector and rarely follow the requirements of the law. The modus operandi is often inefficient and
+environmentally destructive. In addition, revenues generated from the activity follow informal channels to avoid paying
+taxes. The ASM activity is also associated with significant social, safety, health, and environmental problems and risks.
+However, it also offers upside potential. For instance, it is a source of alternative employment to the youth in rural
+areas. Sometimes ASM workers encroach mining concessions held by large-scale investors, creating the possibility of
+tensions and conflict with mining companies. Most of them are young people living in neighboring communities in
+mining areas. There are also children, some of whom are of school age.
+15. Weak resource governance prevents maximum value realization from the mining sector. Mali has been
+implementing the Extractive Industries Transparency Initiative (EITI) since 2007. In May 2017, the International EITI
+Board agreed that Mali has made significant progress in implementing the 2016 EITI Standard but found several
+weaknesses which must be addressed to improve resource governance. These included: the governance of the multi-
+stakeholder group, the granting and management of licenses, the completeness and reliability of the data, the
+disclosure of sub-national transfers, the systematic disclosure of data by government entities actively involved in the
+EITI reporting, and the inclusion of artisanal and small-scale activities in EITI reports. At the local level, mining revenues
+generated from the patent are predominantly used to fund the running costs of local government instead of delivery of
+social services. Moreover, not all funds received by central government are transferred to local communities. For
+instance, the 2018 EITI report includes a significant discrepancy of 328 million CFA francs between the disclosure mining
+companies and those made by the central tax authorities. These lapses often affect the global ranking of Mali with
+respect to resource governance. In the 2017 Resource Governance Index6, Mali ranked 35th out of 81 countries and had
+a score of 53 out of 100. It ranked among countries where weak governance limited societys benefits from mining.
+Although Mali had a good resource revenue management score (70 out of 100), it scored poorly in terms of the quality
+of the enabling environment (42 out of 100) which in turn affected the value realization score (48 out of 100). Malis
+5 Data from Banque Centrale des Etats de lAfrique de lOuest, Direction nationale pour le Mali.
+6 Natural Resource Institute: 2017 Resource Governance Index https://resourcegovernance.org/sites/default/files/documents/2017-resource-
+governance-index.pdf
+Apr 15, 2019 Page 11 of 23
+The World Bank
+Mali Governance of Mining Sector (P164242)
+poor resource governance ranking reflects the weakness or absence of policies and regulations which promote mineral-
+induced, broad-based, and shared growth. There is an opportunity to use mining revenues to stimulate local
+development through participatory budgetary processes.
+Gender Analysis
+16. Women represent half of the artisanal mining workforce, but they face significant historical and cultural
+constraints to empowerment. In Mali, an estimated 50% of artisanal miners are women. However, gender gaps are
+acutely pronounced in the mining-related economic activities as well as at the household level in mining communities.
+As identified in the 2015 World Bank Systematic Country Diagnostic (SCD) for Mali, women face considerable social,
+economic and institutional barriers. On the 2017 Global Gender Gap Index, Mali ranks 139th out of 144 countries listed,
+and 126th on economic participation and opportunity.7 UN Women estimated that more than 35% of Malian women
+are victims of sexual violence at least once in their lives.8 With limited voice and power of action, little control over
+household income and restricted access to means of production, women are therefore marginalized into less profitable
+activities and an environment that prevent them from being vocal about their disadvantageous situations.9
+17. When engaging in economic activities in ASM communities, women are relegated to low-pay occupations:
+supply of goods in the mines, upkeep of children, and up to 90% of the panning of alluvial gold. Many women work as
+temporary helpers for different groups of miners, mainly in the crushing and washing of waste rock, or for cooking and
+cleaning. The remuneration for this work is often low and poorly defined. Very often women are paid in kind (waste
+rock rather than gold), and while working side-by-side with men on gold digging, cultural tradition dictates that women
+turn over all gold to their husbands, who remain the sole owners of family assets. Although women are legally entitled
+to acquire artisanal mining rights, women face stiff competition as well as cultural barriers in trying to become mine
+title holders. Some activities in the value chain, such as direct extraction from pits, are off-limit to women due to cultural
+and religious beliefs. Women who chose to earn a living from mining often must combine their work with household
+chores and child care. As a result, children are uprooted from the normal setting and brought up around mine sites
+where they are exposed to risks of accident and disease.
+18. In the meantime, as important stakeholders in poverty reduction and community well-being, womens
+contribution to social capital, which features elements of social organizations, networks, norms, and trust, is a crucial
+aspect in artisanal mining communities in Mali.10 Assessment on Malian womens economic situation has shown that
+women require attention to the specificities of their income generating activities, need support for womens
+organizations, and wish for more access to more types of productive activities to gain autonomous management of
+their own business.11 In the mining sector, women have organized themselves into women miners associations to
+advocate gender-sensitive policies and enhance capacity building and economic empowerment of their members.
+7 World Economic Forum. The Global Gender Gap Report 2017. World Economic Forum. Geneva, Switzerland. 2017.
+8 Habibatou Gologo. 16 Days of Activism against Gender-Based Violence. The World Bank Group. 2019.
+9 The World Bank Group. Mali Systematic Country Diagnostic. The World Bank Group. Washington DC. June 22, 2015.
+10 Jennifer J. Hinton, Marcello M. Veiga, Christian Beinhoff. Chapter 11: Women and Artisanal Mining: Gender Roles and the Road Ahead. The
+Socio-Economic Impacts of Artisanal and Small-Scale Mining in Developing Countries. Ed. G. Hilson, Pub. A.A. Balkema, Swets Publishers.
+Netherlands. 2003.
+11 African Development Bank, Islamic Development Bank, The United Nations, the World Bank Group. Assessing Recovery and Development
+Priorities in Malis Conflict-Affected Regions. The World Bank Group. Washington DC. March 2016.
+Apr 15, 2019 Page 12 of 23
+The World Bank
+Mali Governance of Mining Sector (P164242)
+C. Proposed Development Objective(s)
+19. The objective is to strengthen the capacity of the mining sector to contribute to Malis medium-term growth
+and sustainable development objectives.
+Development Objective(s) (From PAD)
+20. Strengthen the capacity of the mining sector to contribute to sustainable, inclusive and shared growth, through
+improved sector management and governance.
+Key Results
+21. The PDO-level indicators are:
+ Expanded geological coverage (share of the high-potential greenstone belt area covered by geological survey).
+ Conducive environment for growth and diversification of the mining sector (Fraser Institute Mining Investment
+Attractiveness Index).
+ Adequate institutional capacity to manage the sector (institutional effectiveness assessment).
+ Improved governance of extractive industries (resource governance index).
+ Rationalization of artisanal and small-scale mining (number of ASM cooperatives established and supported under
+the project).
+ Economic empowerment of women in mining (percentage of women in mining supported by the project).
+D. Project Description
+22. The project aims to improve the contribution of the mining sector to the Governments long-term growth
+objectives by emphasizing growth and diversification of mineral production, improved governance and extractive
+revenues, and mining-induced local economic development. To this end, the projects activities focus on (i) improving
+the enabling environment for diversification and growth of the mining sector; (ii) strengthening resource governance
+and transparency; and (iii) maximizing the socio-economic impact of mining by developing economic and fiscal linkages
+with the local economy. The proposed project components are described below.
+Component A: Creating conditions for growth and diversification of the mineral sector (US19.00 million)
+23. This component aims to build the Governments institutional capacity for sustainable management of the
+mineral sector. Activities proposed for support under this component include:
+24. Subcomponent A1  Improving and expanding geological coverage (US14.20 million): This subcomponent aims
+to improve geological knowledge to promote new gold potential and attract investment into non-gold minerals with a
+view to diversifying mineral production. It will support: (i) detailed geological mapping (ground geophysical survey) and
+associated capacity building of prospective areas on a more detailed scale at 1/50,000 covering 14 topographic sheets,
+and targeted geological ground works in 20 areas designated as ASM corridors; (ii) regional geological mapping (airborne
+geophysical survey) at 1/200,000 scale covering 16 sheets of high potential localities: Kayes / Bakel, Kankossa, Yelimane,
+Sandare, Bafoulabe, Bafing-Makana, Nioro, Diema, Kita, Sirakoro, Kolokani, Banamba, Dioila, Koutiala and Sikasso; and
+(iii) design and implementation of geodata use protocols to ensure transparency and efficiency of end uses for data.
+Apr 15, 2019 Page 13 of 23
+The World Bank
+Mali Governance of Mining Sector (P164242)
+25. Subcomponent A2 - Updating the policy and regulatory framework in support of diversification of mineral
+production (US0.60 million): This subcomponent will support consulting services aimed at: (i) updating the mining
+policies and regulations to encourage exploration investment outside the gold sector; (ii) drafting specific environmental,
+social, health and safety regulations for mining, and mine closure policies; and (iii) preparing a policy and regulatory
+framework for ASM, including social regulations and guidelines on gender and child labor.
+26. Subcomponent A3 - Strengthening institutional arrangements and capacity for efficient management of the
+mineral sector (US4.20 million): The activities under this subcomponent support: (i) organizational structuring to
+improve regulatory management of the sector (including establishment of ASM Unit and inter-ministerial mining unit,
+and strengthening inspection and mineral sector promotion functions); and (ii) institutional capacity building of the Senior
+Ministry staff and the established Inter-Ministerial mining unit on contract negotiations (including financial and economic
+modeling, review of technical and feasibility reports, updating model agreements for specific commodities, and
+developing negotiations strategies) and contract monitoring (including training for inspections of operations, technical,
+environmental and financial audits, and market trend monitoring).
+Component B: Strengthening Revenue Transparency and Governance (US3.10 million)
+27. This component aims to leverage and complement Bank-funded and donor-funded governance enhancement
+projects to improve extractive revenue transparency at the national and local levels, and to build the capacity of local
+governments to manage revenues from extractive industries as well as other revenues received pursuant to the
+Agreement of Peace and Reconciliation signed in 2015 to transfer of up to 30% of budget revenues to local
+governments. The project will complement Bank support for strengthening fiscal management in local governments
+(with a focus on the mining districts) for better service delivery by strengthening transparency, traceability and
+accountability of mining revenues. It will also coordinate with, and leverage the activities of, donor interventions for
+mining governance in Mali. These include: (i) OECD supply chain due diligence implementation support consisting of
+capacity building and advice on implementation of the OECD guidance in the mining sector, capacity building of local
+law enforcement to monitor money laundering and terrorism financing, and development of a network of tripartite
+risk monitoring units in mineral producing areas; (ii) the GIZ-funded extractive sector governance enhancement project
+(project No. 2014.1512.3) which supports improving tax collection and supervision in the extractive sector, enhancing
+transparency and the role of civil society in reform processes in the extractive sector, and establishing a sectoral
+database to improve accountability; and (iii) the Canada-funded Extractive Sector Monitoring Project (Projet
+dAmélioration de la Surveillance de lIndustrie extractive en Afrique francophone subsaharienne) which focuses on
+building the capacity of the Public Auditors Office (Contrôle Général des Services Publics du Mali) and other relevant
+stakeholders to monitor the extractive industries. In view of the concurrent support provided by these governance
+projects, the scope this component is limited to two sub-components:
+28. Sub-Component B1 - Improving extractive revenue transparency (US1.60 million): This sub-component will
+support the Mali EITI Secretariat through consulting, outreach activities and studies aimed at improving sector
+governance through: (i) enhancing the disclosure mechanism for subnational transfers to reinforce revenue reconciliation
+activities for subnational transfers at the level of three local authorities in Mali (region, circle and commune); (ii)
+developing and implementing a mining sector beneficial ownership roadmap; and (iii) integrating ASM sector data into
+EITI reports to improve transparency of revenues from artisanal mining.
+Apr 15, 2019 Page 14 of 23
+The World Bank
+Mali Governance of Mining Sector (P164242)
+29. Sub-Component B2 - Promoting social accountability and direct citizen engagement in managing extractive
+industry revenues at the national and local levels (1.50 million): This sub-component emphasizes provision of support
+for consultative processes to strengthen social accountability and participatory decision making about revenue
+management by: (i) support of feasibility study and implementation of the integration of EI data on a digital platform
+encompassing all data on the extractive sector (tax data, public treasures, customs, etc.); and (ii) promoting public
+awareness of extractive revenue data through debates on the governance and transparency of social payments,
+corporate social responsibility (CSR) and other contextual data related to the extractive sector (dissemination of EITI
+information on a large scale, translation of data in computer graphics, local language, production of skits, organization
+of events around the EITI process, communication tools and animation of EITI Clubs in the universities).
+Component C: Maximizing the Local Development Impact of Mining (US12.4 million)
+30. This component focuses on upstream TA to pilot linkages between ongoing private and public initiatives with a
+view to maximize the economic impact of mining and to ensure that benefits are widely shared. It emphasizes: (i)
+supporting the rationalization of small-scale mining, an activity which has a potential to benefit directly 400,000 people
+and an estimated 2.2 million dependents; (ii) leveraging private mining investments in clean energy to improve access
+to energy in rural areas (for instance facilitating the use of mine solar power investments to improve energy access for
+an estimated 15,000 people around mining operations); and supporting economic empowerment of women, who
+represent 50% of the ASM workforce. Accordingly, the following subcomponents will be supported:
+31. Subcomponent C1 - Promoting responsible development of small-scale and artisanal mining (US6.00 million):
+Rationalization and formalization of ASM could pave the way for the emergence of a class of local mining entrepreneurs
+who are fully integrated into the economy. This could also provide a viable alternative for youth employment. The key
+activities include building the capacity of the Ministry of Mines to: (i) provide technical (geological and mining) advisory
+services to delineate ASM blocks and design sustainable mine plans, organize and register ASM actors, establish chain of
+custody and responsible supply chains, issue ASM authorizations and monitor activities; (ii) acquire and set up
+demonstration units to train miners and demonstrate acceptable ASM practices; and (iii) conduct ASM environmental
+management, including motoring of water pollution management in ASM areas, diagnosis/mapping of water pollution,
+and establishment and implementation of mitigation measures, monitoring and alert system of potential large-scale ASM
+pollution.
+32. Subcomponent C2  Maximizing mining-led local development (US3.00 million): this component will support
+carrying out a program of activities aimed at assisting the Government to maximize mining-led local development
+including: (i) strengthening select local entities capacity to manage mining revenues through the piloting of
+participatory mechanisms for budget allocation and investment planning; (ii) provision of technical assistance
+designed to maximize local development derived from mining activities (excluding any implementation and/or
+infrastructure investments) ; and (iii) developing a strategic framework to leverage solar power investments plans
+and improve local communities access to clean energy access in mining areas.
+33. Subcomponent C3  Economic empowerment of women and youth in mining (US3.40 million): To address
+gender gaps in Malis ASM sector and youth unemployment, this subcomponent will support economic empowerment
+of women and youth in artisanal mining by: (i) supporting two women miners associations (AFEMINE and FEMINA) to
+be trainers of their members in non-mining occupations in which women have a comparative advantage (for instance
+collection, cutting, polishing and crafting of semi-precious stones for jewelry or art); (ii) training mining youth groups
+to in non-mining alternative livelihoods, such as reclamation, restoration and conversion of previously mined ASM
+Apr 15, 2019 Page 15 of 23
+The World Bank
+Mali Governance of Mining Sector (P164242)
+sites into vegetable farming cooperatives; (iii) supporting the outreach activities of organizations involved in
+awareness-raising and prevention of resource conflicts at the community level and gender-based violence (GBV) in
+mining areas.
+Component D: Contingency Emergency Response (US0.00)
+34. The objective of this component is to provide support for immediate response to an eligible crisis or emergency.
+The contingency is triggered in the event of a natural or man-made crisis that has caused or is likely to imminently
+cause a major adverse economic and/or social impact to Mali. Eligible crisis or emergency may include an epidemy
+(such as an Ebola crisis) or a climate-related natural disaster. The component allocates US 0 funding, but if an
+emergency is triggered, funding may be reallocated to the component from other components.
+Component E: Project Coordination and Training (US4.00 million)
+35. The objective of this component is to strengthen the Governments capacity for coordination and management
+of the Project including supporting the enhancement of, inter alia: (i) project management and coordination; (ii)
+training, advisory services, and knowledge exchange; (iii) fiduciary management; (iv) safeguard management; and (v)
+monitoring and evaluation (ME).
+Project Preparation Advance (US1.50 million)
+36. The proposed credit includes a Project Preparation Advance (PPA) of US1.5 million. The PPA was designed to
+support the initial project preparation and management, procurement of office equipment, and safeguards related
+studies, including the preparation of the Strategic Environmental and Social Assessment (SESA).
+Apr 15, 2019 Page 16 of 23
+The World Bank
+Mali Governance of Mining Sector (P164242)
+E. Implementation
+37. A Project Coordination Unit (PCU) will be established within MMP with support from the Project Preparation
+Advance. The implementation arrangements include a Project Steering Committee (PSC) at the Ministerial Level, an
+Inter-Ministerial Implementation Committee, and a Project Coordination Team including a Coordinator, an Extractive
+Industries Specialist, and a Procurement and FM Specialists. During the Preparation Phase, the project will be
+supported by an existing PCU with over 15 years of experience with Bank-funded projects. This PCU, called PAAR (Rural
+Mobility and Connectivity Project - P160505) is anchored in the Ministry of Infrastructure and will provide fiduciary and
+safeguard support and training to the new PCU being established under MMP. The PAAR will also assist with the
+drafting of the Project Implementation Manual (PIM), which will be finalized prior to project effectiveness.
+38. During the preparation phase a PPA of US1.5 million will be used to support of the implementation
+arrangements, including setting up the PCU and undertaking preparatory activities. More specifically, PPA funds will
+be primarily used for (1) preparatory studies to inform project design, conduct baseline studies, and prepare
+safeguard instruments (including the SESA); (2) fund implementation of PPA activities, including a technical
+implementation unit and a fiduciary management agency; and (3) support of pilot projects and proof of concepts for
+innovative activities to be supported under the project. During the PPA phase, support of implementation
+arrangements involve funding the incremental cost of the technical unit at the Ministry of Mines and the fiduciary
+management fees of a National Coordination Unit in the Infrastructure Ministry under a Bank-funded Project (Rural
+Mobility and Connectivity Project - P160505-PAAR). After the PPA Phase, the project management component will
+cover the cost of the new PCU at the Ministry of Mines as well as any additional capacity needed for procurement,
+financial management, safeguards management, and monitoring and evaluation capacity.
+Institutional and Implementation Arrangements
+39. The PSC will be chaired by the Minister of Mines or its Secretary General and it will review and approve the
+annual work programs and the budget of the project. The PSC will include officials of the Ministry of Mines, the Ministry
+of Environment, Sanitation and Sustainable Development, the Ministry of Finance, the Ministry of Local Development,
+the Ministry of Energy and the industry associations (Chamber of Mines, Small-scale miners Associations, Women
+miners Associations), the Secretariat of EITI-Mali and Civil Society.
+40. The PSC will have the mandate to: (a) review the progress of project implementation as well as the results
+achieved, (b) discuss and address the project implementation issues, and (c) review and approve the annual Project
+Implementation Plan and Reports prepared by the PCU, including reports on planned and executed budgets. The PCU
+will be the Secretariat of the PSC. It will be responsible to prepare the documents based on relevant contributions by
+all institutions involved in Project implementation.
+41. During the first year, the project will be implemented by a technical unit within the Ministry of Mines with
+technical support from consultants and fiduciary management from the PAAR. The PAAR is an established National
+Coordination Unit which currently handles several Bank-funded projects and has over 15 years of experience in
+fiduciary management. Following the first year, a full-functioning Project Coordination Unit will be established within
+the Ministry of Mines in coordination with other donors active in the extractive sector. The PCU will include a
+coordinator, a procurement specialist, a financial management specialist, an environmental specialist, a social
+development specialist, and an evaluation and monitoring specialist. The PCU under the responsibility of the Ministry
+of Mines will coordinate the overall implementation of the project on a day-to-day basis. It will coordinate the annual
+work plan and budget and oversee the financial management and procurement of the project. It will be responsible for
+Apr 15, 2019 Page 17 of 23
+The World Bank
+Mali Governance of Mining Sector (P164242)
+all fiduciary aspects of the project including procurement, disbursement, accounting, financial reporting, and ME of
+the project, and ensuring audits of project account. It will prepare bi-annual reports recording the progress of the
+project. The activities of the PCU will be supplemented by close supervision by the World Bank through semi-annual
+missions and daily oversight by a liaison consultant. A midterm review will take place no later than three years of
+implementation with the objective of assessing progress to date and if necessary to re-direct the project by integrating
+additional lessons learned and realities on the ground. The project account will be audited annually by independent
+auditor acceptable to IDA and should be submitted to IDA no later than six months after the closing of the fiscal year
+in Mali (i.e. June 30).
+42. A project implementation manual (PIM) will be prepared and adopted within three months following project
+effectiveness. The PIM will be a compendium of procedures for implementing the project. It details the organizational
+and technical procedures that govern the project, including financial management, procurement, and social and
+environmental safeguards procedures and the Grievance Redress Mechanism (GRM). A separate administrative,
+financial management and procurement manual as well as a specific manual for managing the Contingency Emergency
+Response Component (CERC) will be prepared. The GRM will allow the PCU to address issues in a timely manner.
+.
+F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known)
+Most of the activities of the project consist of policy reforms and capacity building which are not location-
+specific. The project proposes airborne geological survey covering the areas of Yanfolila, Bougouni,
+Massigui, Sikasso, Tienko, Tingrela and Niellé in the region of Sikasso and the areas of Bouly, Bakel, Kayes,
+Kossanto, Kéniéba, Dinguiraye and Bafing Makana in the Kayes region. In addition there is a for artisanal and
+small-scale mining through targeted geological ground works in designated ASM corridors in the gold
+producing areas of Sikasso and Kayes.
+G. Environmental and Social Safeguards Specialists on the Team
+Emeran Serge M. Menang Evouna, Environmental Specialist
+Mahamadou Ahmadou Maiga, Social Specialist
+Tolidji Blaise Donou, Environmental Specialist
+SAFEGUARD POLICIES THAT MIGHT APPLY
+Safeguard Policies Triggered? Explanation (Optional)
+The Project is rated as Category B. The project
+activities are limited to technical assistance activities
+Environmental Assessment OP/BP 4.01 Yes in the mining sector. There are no physical activities
+requiring footprint associated with the project. But,
+it will be necessary to mainstream the
+Apr 15, 2019 Page 18 of 23
+The World Bank
+Mali Governance of Mining Sector (P164242)
+environmental and social objectives, principles and
+measures in (i) law/regulations to prepare/revise, (ii)
+procedures, (iii) stakeholders' training programs, (iv)
+specific studies on environmental and social in the
+mining sector. The activities like development of an
+environmental and social management framework
+for mining and petroleum, policy and regulatory
+framework for artisanal and small-scale mining,
+including social regulations and guidelines on gender
+and child labor, etc. will be implemented under the
+project. All of project component should have
+environmental and social approach. For that the
+project will prepare the mining sector Strategic
+Environmental and Social Assessment (SESA) during
+implementation. The SESA TOR were reviewed and
+approved by the Bank, and the complete SESA is due
+six months after the project effectiveness. In the
+process of developing said SESA, the Recipient will
+ensure adequate stakeholder engagement and
+consultations on the draft SESA, in a manner
+satisfactory to the World Bank.
+Despite the fact that the project will build
+government capacity in contracts negotiations,
+including financial and economic modeling, review
+Performance Standards for Private Sector
+No of technical and feasibility reports, updating model
+Activities OP/BP 4.03
+agreements for specific commodities, and
+developing negotiations strategies, this policy is not
+triggered.
+The project activities are not expected to impact any
+Natural Habitats OP/BP 4.04 No
+critical natural habitats.
+The project activities are not expected to impact any
+Forests OP/BP 4.36 No
+forests.
+Pest Management OP 4.09 No No pesticides will be used in the project
+The project is not expected to impact on physical
+Physical Cultural Resources OP/BP 4.11 No cultural
+resources.
+Indigenous Peoples OP/BP 4.10 No There are no IP in the project area.
+Involuntary Resettlement OP/BP 4.12 No Involuntary resettlement is not envisaged in project.
+Safety of Dams OP/BP 4.37 No The project is not expected to finance dams.
+Projects on International Waterways No international waterways are expected to be
+No
+OP/BP 7.50 affected by project activities.
+The project activities will not be implemented in the
+Projects in Disputed Areas OP/BP 7.60 No
+disputed areas as described by the policy.
+Apr 15, 2019 Page 19 of 23
+The World Bank
+Mali Governance of Mining Sector (P164242)
+KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT
+A. Summary of Key Safeguard Issues
+1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential
+large scale, significant and/or irreversible impacts:
+The project is not expected to have any large scale, significant or irreversible adverse impacts and risks. The impacts
+that are anticipated are mostly related to the sampling and testing of mineral resources. The adverse impacts are
+expected to be limited in the sampling area footprint.
+2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area:
+The potential indirect and/or long term adverse impacts and risks are those related the mining exploitation phase that
+is not considered in this project.
+3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+As the project will strengthen the institutional capacity of the government in mining sector, no other project
+alternative is considered.
+4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower
+capacity to plan and implement the measures described.
+The borrower has adequate institutional capacity for safeguards policies. At national level, Mali has a legislative and
+regulatory framework which is conducive to good environmental and social management. Mali has signed a number of
+international treaties and conventions and has experience with the Banks Safeguard Policies due to Bank-funded
+projects across different sectors. However, implementation capacity remains limited. Environmental policies and their
+compliance are governed by the Ministry of Environment, Sanitation and Sustainable Development through The
+National Directorate of Sanitation, Pollution and Noises Control Direction Nationale de lAssainissement et du
+Contrôle des Pollutions et des Nuisance (DNPACN).
+The DNAPCN is responsible for safeguards compliance of all projects in the country. This agency is familiar with the
+World Bank safeguard instruments such as the Environmental and Social Management Framework (ESMF),
+Environmental Impacts Assessments (ESIA) and Environmental and Social management Plans (ESMPs), the
+Resettlement Policy Framework (RPF) and Resettlement Action Plans (RAPs). However DNAPCN remains understaffed
+and has limited logistic capacity. Despite several donor-funded capacity building initiatives, DNACPN is still largely
+relying on donor funds projects to carry out its field supervision duties. DNAPCN has field Units named DRAPCN that
+are in charge to review and validate Environmental and Social Notices. These regional bodies often do not have the
+equipment necessary to monitor social and environmental impacts, their staff lacks training, and management
+capacity is very thin. The EA archives system of DNACPN remains weak and is mainly manual.
+At the level of Ministry of the Ministry of Mines, the environmental and social capacity remains very weak. They have
+not yet implemented World Bank funded projects. It was agreed that a Project Implementing Unit (PIU) will be set up
+in the Mines Ministry and this Unit will be staffed with at least one full time skilled environmental safeguards
+Specialist and one Social development specialist. In addition, the World Bank project team will also consider providing
+capacity building and training on safeguards to this PIU through proposed Component E (Project Coordination and
+Training) of the project.
+Apr 15, 2019 Page 20 of 23
+The World Bank
+Mali Governance of Mining Sector (P164242)
+It was agreed that the project will support the preparation of an Environmental and Social Mining Strategic
+Assessment as project outcome. The preparation of the ToRs of this study are prepared prior to project appraisal.
+Specific support to DNACPN: Based on the very weak capacity of DNACPN, the project will provide a technical and
+institutional capacity building package support.
+5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies,
+with an emphasis on potentially affected people.
+The main stakeholders are local communities groups that are surrounding the mining sites; public administrations
+(Mines, Environment, Agriculture, Health, Energy and Water), local municipalities, mining companies; Local and
+international NGOs, media. During the implementation of the project a consultation plan will be prepared and
+implemented mainly during the preparation of the Mining SESA.
+B. Disclosure Requirements
+OEnPvSi_roEnAm_DeInStCaLlO ASsUseRsEs_mTeAnBtL/EA udit/Management Plan/Other
+For category A projects, date of
+Date of receipt by the Bank Date of submission for disclosure distributing the Executive Summary of
+the EA to the Executive Directors
+30-May-2018 30-May-2018
+In country Disclosure
+C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the project
+decision meeting)
+OOPPS/_BEPA/_GCPO 4M.0P1_ T- AEBnvLEir onment Assessment
+Does the project require a stand-alone EA (including EMP) report?
+NA
+OPS_PDI_COMP_TABLE
+The World Bank Policy on Disclosure of Information
+Have relevant safeguard policies documents been sent to the World Bank for disclosure?
+NA
+Apr 15, 2019 Page 21 of 23
+The World Bank
+Mali Governance of Mining Sector (P164242)
+Have relevant documents been disclosed in-country in a public place in a form and language that are understandable
+and accessible to project-affected groups and local NGOs?
+NA
+All Safeguard Policies
+Have satisfactory calendar, budget and clear institutional responsibilities been prepared for the implementation of
+measures related to safeguard policies?
+NA
+Have costs related to safeguard policy measures been included in the project cost?
+NA
+Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures
+related to safeguard policies?
+NA
+Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately
+reflected in the project legal documents?
+NA
+CONTACT POINT
+World Bank
+Mamadou Barry
+Sr Mining Spec.
+Tahirou Kalam
+Financial Management Specialist
+Borrower/Client/Recipient
+Ministere des Finances
+Dr. Boubou Cisse
+Minister
+sgfinances.gouv.ml
+Implementing Agencies
+Ministere des Mines
+Lassana Guindo
+Advisor to Minister
+lassanaguindo2005gmail.com
+Apr 15, 2019 Page 22 of 23
+The World Bank
+Mali Governance of Mining Sector (P164242)
+FOR MORE INFORMATION CONTACT
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+APPROVAL
+Mamadou Barry
+Task Team Leader(s):
+Tahirou Kalam
+Approved By
+Safeguards Advisor: Hanneke Van Tilburg 10-May-2019
+Practice Manager/Manager: Christopher Gilbert Sheldon 11-May-2019
+Country Director: Michael Hamaide 13-May-2019
+Apr 15, 2019 Page 23 of 23
