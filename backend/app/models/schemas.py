@@ -17,6 +17,8 @@ class SourceChunk(BaseModel):
 class AskResponse(BaseModel):
     answer: str
     sources: list[SourceChunk]
+    confidence: float | None = None
+    engine: str | None = None
 
 
 class HealthResponse(BaseModel):

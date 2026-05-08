@@ -31,6 +31,8 @@ class Settings(BaseSettings):
     model_name: str = "gpt-4o-mini"
     llm_temperature: float = 0.1
     llm_timeout_seconds: int = 60
+    llm_max_tokens: int = 600
+    engine_name: str = "openai-rag"
 
     default_top_k: int = 5
     max_top_k: int = 10

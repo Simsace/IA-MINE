@@ -70,7 +70,10 @@ class RagService:
     ) -> AskResponse:
         logger.info("Answering question user_id=%s chat_id=%s", user_id, chat_id)
         docs = self.retrieve(question, top_k)
-        answer = self.llm_service.generate_answer(question, docs)
+        llm_result = self.llm_service.generate_answer(
+            question, docs, temperature=self.settings.llm_temperature
+        )
+
         sources = [
             SourceChunk(
                 source=doc.metadata["source"],
@@ -79,5 +82,11 @@ class RagService:
             )
             for doc in docs
         ]
-        return AskResponse(answer=answer, sources=sources)
+
+        return AskResponse(
+            answer=llm_result.get("answer", ""),
+            sources=sources,
+            confidence=llm_result.get("confidence"),
+            engine=llm_result.get("engine"),
+        )
 
